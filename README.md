@@ -16,11 +16,11 @@ iCopy Version - 0.2.0-Beta.6.7
 ## Deployment to Heroku
 iCopy Version - v0.2.2 (No Web DashBoard Only Bot)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Nenokkadine/Fclone-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/iaman1998/Fclone-Bot/tree/master)
 
 iCopy Version - v0.2.2 (Only Web DashBoard)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Nenokkadine/Fclone-Bot/tree/web)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/iaman1998/Fclone-Bot/tree/web)
 
 Deploy Both If U wanna Use Web Dashboard and use the same config vars for Web one as the Bot one.
 
